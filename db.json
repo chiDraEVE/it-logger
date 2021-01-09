@@ -8,11 +8,11 @@
       "id": 1
     },
     {
+      "id": 2,
       "message": "Changed network card in server 007",
       "attention": false,
       "tech": "Sam Smith",
-      "date": "2021-01-09T14:38:55.038Z",
-      "id": 2
+      "date": "2021-01-09T18:40:18.077Z"
     },
     {
       "message": "Hard drive failed in workstation 002",
